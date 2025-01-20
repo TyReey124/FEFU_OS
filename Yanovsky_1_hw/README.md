@@ -1,7 +1,9 @@
+
+
 # Требуеый софт
-GCC (MinGW for Windows)
-CMake
-Git
+- GCC (MinGW for Windows)
+- CMake
+- Git
 
 # Настройка
 ## Windows
