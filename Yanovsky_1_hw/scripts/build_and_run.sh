@@ -1,6 +1,6 @@
 #!/bin/bash
 # Update sources from Git
-git pull https://github.com/TyReey124/FEFU_OS/tree/main/Yanovsky_1_hw main
+git pull origin main
 
 # Create build directory if not exists
 mkdir -p build
