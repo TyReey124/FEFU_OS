@@ -6,11 +6,11 @@
 # Запуск
 
 ## Linux
-- "chmod +x build_and_run.sh" - сделать скрипт исполняемым
-- "./build_and_run.sh" - для запуска
+- `chmod +x build_and_run.sh` - сделать скрипт исполняемым
+- `./build_and_run.sh` - для запуска
 
 ## Windows
-- 'build_and_run.bat" - для запуска, если есть MinGW
+- `build_and_run.bat` - для запуска, если есть MinGW
 
 # Файлы проекта
 - "process_launcher.h" и "process_launcher.cpp" Реализация библиотеки для запуска процессов.
