@@ -1,6 +1,6 @@
 @echo off
 REM Update sources from Git
-git pull https://github.com/TyReey124/FEFU_OS main
+git pull https://github.com/TyReey124/FEFU_OS/tree/main/Yanovsky_1_hw main
 
 REM Create build directory if not exists
 if not exist build mkdir build
